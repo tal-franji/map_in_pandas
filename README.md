@@ -1,4 +1,4 @@
-# pagaya-map_in_pandas
+# map_in_pandas
 
 Easy python wrapper for Spark mapInPandas, applyInPandas
 
