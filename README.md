@@ -1,2 +1,2 @@
-# map_in_pandas
-Apache Spark wrappers around mapInPandas, applyInPandas to avoid API quirks and bugs
+# conf-talks
+Public open code published for conferences, talks etc. e.g. PyData, PyCon, HayaData
